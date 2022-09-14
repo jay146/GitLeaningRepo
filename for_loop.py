@@ -1,2 +1,3 @@
-for i in range(1)
-print(hello jay);
+for i in range(10)
+print('hello jayakrisna')
+
